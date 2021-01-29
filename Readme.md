@@ -1,4 +1,4 @@
-# 3D Detection's visualization in pointclouds 
+# 3D Detection's visualization in colored pointclouds 
 Visualize 3d detection results on colored pointclouds
 ## Example
 ![image](https://github.com/XYunaaa/3dDetectionVis/blob/master/result/000000.png)
